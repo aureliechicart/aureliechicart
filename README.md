@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Aurélie 👋
 
 <!--
 **aureliechicart/aureliechicart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on implementing two types of UX models for browsing through extensive content: pagination and infinite scroll.
+
+🌱 I’m currently learning more about Vue and Nuxt.
+
+📫 How to reach me: aurelie.chicart@gmail.com
